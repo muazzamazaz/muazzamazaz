@@ -51,6 +51,6 @@ I design, build, and run business-critical software: ERP systems, SaaS platforms
 - Database, performance, and payment-integration assessments
 - Hands-on implementation and production deployment
 
-📫 [Upwork](https://www.upwork.com/freelancers/~010dffec39a8245c19) · [easywaretech.com](https://easywaretech.com) · muazzamazaz@hotmail.com
+📫 [[Upwork](https://www.upwork.com/freelancers/~010dffec39a8245c19) · [easywaretech.com](https://easywaretech.com) · muazzamazaz@hotmail.com](https://stackoverflow.com/users/2456918/muhammad-muazzam)
 
 🎓 MIT (Master of Information Technology), Bahauddin Zakariya University
