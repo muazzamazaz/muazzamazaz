@@ -1,4 +1,4 @@
-# Hi, I'm Muazzam 👋
+# Hi, I'm Muhammad Muazzam 👋
 
 **Fractional CTO & Software Architect** · Founder of [Easyware Technology](https://easywaretech.com) · Multan, Pakistan
 
